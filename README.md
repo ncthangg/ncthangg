@@ -1,7 +1,10 @@
-<h2 align="center"> About me </h2>
+<h2 align="center"> 👋 Hi, I'm Nguyễn Chiến Thắng </h2>
 <br>
 
-🔭 I’m  Nguyen Chien Thang
+<div align="center">
+ I'm a <strong>Fullstack Developer</strong>  |  .NET  |  REACT  |  SQL  | Clean Architecture  <br>
+ 🚀 Goal: Become <strong>Senior Backend Engineer</strong>
+</div>
 
 <br>
 <h2 align="center">👽 Social 👽</h2>
@@ -54,19 +57,9 @@
 <h2 align="center">🔥 GitHub Stats 🔥</h2>
 <br>
 
-<div align=center>
-  <a href="#" title="ncthangg">
-    <img width="315" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ncthangg&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
-  </a>
-  <a href="#" title="ncthangg">
-    <img align="right" width="434" src="https://github-readme-stats.vercel.app/api?username=ncthangg&show_icons=true&theme=react&border_color=61dafb&hide_border=true&rank_icon=github&include_all_commits=true" />
-  </a>
+<div align="center">
+  <img width="48%" src="https://github-readme-stats-bice-three-91.vercel.app/api/top-langs/?username=ncthangg&layout=compact" />
+  <img width="48%" src="https://github-readme-stats-bice-three-91.vercel.app/api?username=ncthangg&show_icons=true&theme=transparent" />
 </div>
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=ncthangg&theme=default&no-frame=false&no-bg=true&margin-w=4)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=ncthangg&limit=5&theme=default&combine_all_yearly_contributions=true)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
