@@ -7,7 +7,7 @@
 </div>
 
 <br>
-<h2 align="center">👽 Social 👽</h2>
+<h2 align="center">👽 Networks 👽</h2>
 <br>
 
 <div align="center">
