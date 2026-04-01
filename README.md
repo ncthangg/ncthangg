@@ -3,7 +3,12 @@
 
 <div align="center">
  I'm a <strong>Fullstack Developer</strong>  |  .NET  |  REACT  |  SQL  | Clean Architecture  <br>
- 🚀 Goal: Become <strong>Senior Backend Engineer</strong>
+ 🚀 Goal: Become <strong>Senior Backend Engineer</strong> <br><br>
+ 
+<a href="https://thangnc.cocome.online/">
+  <img src="https://img.shields.io/badge/.NET-View%20My%20Resume-purple?style=for-the-badge&logoColor=white">
+</a>
+
 </div>
 
 <br>
